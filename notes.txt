@@ -1,0 +1,5 @@
+npm packages list frequently used:=
+
+1. nodemon
+2. validator
+3. Chalk(colored text output in command line)
